@@ -7,11 +7,14 @@
 
 
 
-<h2> Current Programs </h2>
+<h1> Current Programs </h1>
 
- <h4> Cybersecurity <a href= "https://github.com/WorkED123/cybersecurity"> </a> </h4>
- <h4> Artifical Intelligence</h4>
- <h4>Digital Marketing</h4>
+<h2> <a href="https://github.com/WorkED123/cybersecurity"> Cybersecurity </a> </h2>
+<br>
+<h2> Artifical Intelligence</h2>
+ <br>
+ <h2>Digital Marketing</h2>
+
 
 
 
