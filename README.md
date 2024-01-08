@@ -10,15 +10,13 @@
 <h1> Current Programs </h1>
 
 <h2> <a href="https://github.com/WorkED123/cybersecurity"> Cybersecurity </a> </h2>
-<br>
 <h2> Artifical Intelligence</h2>
- <br>
- <h2>Digital Marketing</h2>
+<h2>Digital Marketing</h2>
 
 
+<br>
 
-
-<h2> Connect with us! </h2>
+<h1> Connect with us! </h1>
 
 
 
