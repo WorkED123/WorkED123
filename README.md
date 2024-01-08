@@ -1,6 +1,3 @@
 ### Hi there 👋
 
-<!--
-
-hey there
--->
+hi there, how is life going
