@@ -16,12 +16,6 @@
 
 <br>
 
-<h1> Connect with us 🙌 </h1>
-
-<h3> Phone : 559-272-4888</h3>
-<h3> Email : cyber@worked.com</h3>
-<h3>Linkdln : </h3>
-<h3> Instagram</h3>
 
 
 
