@@ -12,7 +12,7 @@
 <h2> <a href="https://github.com/WorkED123/cybersecurity"> Cybersecurity 💻</a> </h2>
 <h2> Artifical Intelligence 🧠</h2>
 <h2>Digital Marketing 📈</h2>
-<h2> Cybersecurity Projects</h2>
+
 
 
 <br>
