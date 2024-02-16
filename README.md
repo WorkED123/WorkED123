@@ -10,7 +10,7 @@
 <h1> Current Programs 🏫 </h1>
 
 <h2> <a href="https://github.com/WorkED123/cybersecurity"> Cybersecurity 💻</a> </h2>
-<h2> Artifical Intelligence 🧠</h2>
+<h2><a href="https://github.com/WorkED123/AI-Curriculum/blob/main/README.md"> Artifical Intelligence 🧠</h2>
 <h2>Digital Marketing 📈</h2>
 
 
